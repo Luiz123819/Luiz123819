@@ -102,7 +102,8 @@ Me chamo Luiz Fernando, tenho 19 anos e sou natural do Rio Grande do Sul. Conclu
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Luiz123819&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
+    <br/>
+    <br/>
 <img 
       align="left" 
       alt="GitHub Stats" 
